@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/ckb30k5ym0001z0tr0a733flz</url>
+    <url>/ckb30rmbo00010strgywl88xp</url>
     <content><![CDATA[<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo<i class="fa fa-external-link-alt"></i></span>! This is your very first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation<i class="fa fa-external-link-alt"></i></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting<i class="fa fa-external-link-alt"></i></span> or you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub<i class="fa fa-external-link-alt"></i></span>.</p>
 <h2 id="quick-start">Quick Start</h2>
 <h3 id="create-a-new-post">Create a new post</h3>
@@ -35,19 +35,17 @@ l &amp;= m - n \label{eq5}
  w+2 &amp;= -1+w \\
  ab &amp;= cb
 \end{align}\]</span></p>
-<ul>
-<li>Equation <span class="math inline">\(\eqref{eq_tag}\)</span> use <code>\tag{}</code> instead of automatic numbering.</li>
-</ul>
 <p><span class="math display">\[\begin{equation} \label{eq1}
 e=mc^2
 \end{equation}\]</span></p>
-<p><img src="/images/685053.jpg"></p>
+<p><img src="/images/685053.jpg" /></p>
 ]]></content>
   </entry>
   <entry>
     <title>404</title>
     <url>/404/index.html</url>
-    <content><![CDATA[<script src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js" charset="utf-8" homepageurl="/" homepagename="Back to home">
+    <content><![CDATA[<script src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js"
+        charset="utf-8" homePageUrl="/" homePageName="Back to home">
 </script>
 ]]></content>
   </entry>
